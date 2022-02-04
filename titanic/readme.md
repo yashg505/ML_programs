@@ -3,3 +3,5 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 
 In this challenge, we ask you to build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
 
+Dataset available on this link:
+https://www.kaggle.com/c/titanic/data
