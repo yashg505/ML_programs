@@ -168,7 +168,7 @@ def weighted_knn(k, n=1, scaling="", dis_type="euclidean", df):
     
     return round(acc,2)
 
-def main():
+if __name__ = "__main__"i:
     df = read.csv('dataset1.csv')
     allResults = []
     for k in range(3, 45, 2):
@@ -179,5 +179,4 @@ def main():
                 , markeredgecolor='black', markerfacecolor='white')
     plt.show()
 
-main()
 
